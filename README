@@ -1,5 +1,5 @@
-*�T�v
-SoftwareDesign���W�҂̃C���f�b�N�X��Flash���g���Ă���iPad�Ō����Ȃ��̂ŁAHTML�ł��쐬���܂����B
-*�g����
-���̃f�B���N�g����README�ȊO�̑S�Ẵt�@�C�����ASoftwareDesign���W�҂̃g�b�v�̃f�B���N�g���ɒu�������ł��B
-�C���f�b�N�X�����邽�߂ɂ́Ahindex.html���J���Ă��������B
+*概要
+SoftwareDesign総集編のインデックスがFlashを使っていてiPadで見られないので、HTML版を作成しました。
+*使い方
+このディレクトリのREADME以外の全てのファイルを、SoftwareDesign総集編のトップのディレクトリに置くだけです。
+インデックスを見るためには、hindex.htmlを開いてください。
