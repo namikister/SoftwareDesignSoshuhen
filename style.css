@@ -1,0 +1,29 @@
+div#container{
+    width: 100%;
+}
+div#booklist{
+    width: 100%;
+    float: right;
+}
+div.book {
+    border: 1px solid gray;
+    padding: 5px;
+    float: left;
+    height: 550px;
+    width: 470px;
+}
+div.cover {
+    float: left;
+    text-align: center;
+    vertical-align: middle;
+}
+div.contents{
+    padding-left: 5px;
+    text-align: left;
+    font-size: 13px;
+    float: left;
+}
+div.page {
+    display:block;
+    width:340px;
+}
